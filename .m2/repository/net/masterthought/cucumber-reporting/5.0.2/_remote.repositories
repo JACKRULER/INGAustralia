@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jan 30 11:27:57 IST 2020
+cucumber-reporting-5.0.2.jar>central=
+cucumber-reporting-5.0.2-sources.jar>central=
+cucumber-reporting-5.0.2.pom>central=

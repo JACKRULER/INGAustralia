@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Feb 06 11:47:24 IST 2020
+jackson-coreutils-1.9.jar>central=
+jackson-coreutils-1.9-sources.jar>central=
+jackson-coreutils-1.9.pom>central=

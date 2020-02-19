@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33816" started-at="2020-02-14T15:53:46Z" finished-at="2020-02-14T15:54:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33816" started-at="2020-02-14T15:53:46Z" finished-at="2020-02-14T15:54:20Z">
+      <class name="Flipkart_Project.Test_Scripts.TestFlipkartHomePage">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Flipkart_Project.Test_Scripts.TestFlipkartHomePage@cc285f4]" name="setUp" is-config="true" duration-ms="11511" started-at="2020-02-14T15:53:46Z" finished-at="2020-02-14T15:53:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="enterUserName()[pri:1, instance:Flipkart_Project.Test_Scripts.TestFlipkartHomePage@cc285f4]" name="enterUserName" duration-ms="233" started-at="2020-02-14T15:53:58Z" finished-at="2020-02-14T15:53:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterUserName -->
+        <test-method status="PASS" signature="enterPassword()[pri:2, instance:Flipkart_Project.Test_Scripts.TestFlipkartHomePage@cc285f4]" name="enterPassword" duration-ms="162" started-at="2020-02-14T15:53:58Z" finished-at="2020-02-14T15:53:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterPassword -->
+        <test-method status="PASS" signature="clickLoginButton()[pri:3, instance:Flipkart_Project.Test_Scripts.TestFlipkartHomePage@cc285f4]" name="clickLoginButton" duration-ms="7084" started-at="2020-02-14T15:53:58Z" finished-at="2020-02-14T15:54:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickLoginButton -->
+        <test-method status="PASS" signature="searchTextBox()[pri:4, instance:Flipkart_Project.Test_Scripts.TestFlipkartHomePage@cc285f4]" name="searchTextBox" duration-ms="484" started-at="2020-02-14T15:54:05Z" finished-at="2020-02-14T15:54:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTextBox -->
+        <test-method status="PASS" signature="addCart()[pri:5, instance:Flipkart_Project.Test_Scripts.TestFlipkartHomePage@cc285f4]" name="addCart" duration-ms="14323" started-at="2020-02-14T15:54:06Z" finished-at="2020-02-14T15:54:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCart -->
+      </class> <!-- Flipkart_Project.Test_Scripts.TestFlipkartHomePage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

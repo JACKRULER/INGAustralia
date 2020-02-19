@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 12 11:33:38 IST 2020
+joda-time-2.10.1.jar>central=
+joda-time-2.10.1-sources.jar>central=
+joda-time-2.10.1.pom>central=

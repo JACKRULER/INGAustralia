@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Feb 04 15:02:10 IST 2020
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1580808730894
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.seleniumhq.selenium\:htmlunit-driver\:jar\:javadoc\:2.30.0 from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org

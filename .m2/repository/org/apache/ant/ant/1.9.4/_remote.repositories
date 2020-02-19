@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jan 24 07:51:49 IST 2020
+ant-1.9.4.pom>central=
+ant-1.9.4.jar>central=
+ant-1.9.4-sources.jar>central=

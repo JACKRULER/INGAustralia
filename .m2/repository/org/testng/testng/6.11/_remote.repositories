@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Feb 06 07:48:07 IST 2020
+testng-6.11.jar>central=
+testng-6.11.pom>central=
+testng-6.11-sources.jar>central=

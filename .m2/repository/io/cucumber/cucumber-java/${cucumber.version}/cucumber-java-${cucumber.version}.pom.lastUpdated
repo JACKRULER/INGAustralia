@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Feb 06 07:25:59 IST 2020
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1580954159359
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact io.cucumber\:cucumber-java\:pom\:${cucumber.version} from/to central (https\://repo.maven.apache.org/maven2)\: Illegal character in path at index 64\: https\://repo.maven.apache.org/maven2/io/cucumber/cucumber-java/${cucumber.version}/cucumber-java-${cucumber.version}.pom
